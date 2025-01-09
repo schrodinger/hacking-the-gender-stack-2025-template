@@ -8,7 +8,7 @@ This template can be used as a starting point for developing your own applicatio
 $> pip install -r requirements.txt
 
 # To start the server
-$> flask run
+$> python -m flask run
 ```
 
 ## Starter code
